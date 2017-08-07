@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1468148230235" />
+        <option name="importOrderConfigFilePath" value="C:/DevTools/IDE配置/code-style.xml" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="C:/DevTools/IDE配置/code-style.xml" />
+        <option name="selectedJavaProfile" value="M4Formatter" />
+      </Settings>
+    </option>
+  </component>
+</project>

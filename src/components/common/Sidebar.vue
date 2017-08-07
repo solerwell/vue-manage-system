@@ -54,14 +54,6 @@
                                 title: '基本表单'
                             },
                             {
-                                index: 'vueeditor',
-                                title: '编辑器'
-                            },
-                            {
-                                index: 'markdown',
-                                title: 'markdown'
-                            },
-                            {
                                 index: 'upload',
                                 title: '文件上传'
                             }
